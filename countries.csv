@@ -1,0 +1,238 @@
+code	iso	iso3	name	short_name
+004	AF	AFG	Afghanistan	Afghanistan
+248	AX	ALA	Åland Islands	Åland Islands
+008	AL	ALB	Albania	Albania
+012	DZ	DZA	Algeria	Algeria
+016	AS	ASM	American Samoa	American Samoa
+020	AD	AND	Andorra	Andorra
+024	AO	AGO	Angola	Angola
+660	AI	AIA	Anguilla	Anguilla
+028	AG	ATG	Antigua and Barbuda	Antigua and Barbuda
+032	AR	ARG	Argentina	Argentina
+051	AM	ARM	Armenia	Armenia
+533	AW	ABW	Aruba	Aruba
+036	AU	AUS	Australia	Australia
+040	AT	AUT	Austria	Austria
+031	AZ	AZE	Azerbaijan	Azerbaijan
+044	BS	BHS	Bahamas	Bahamas
+048	BH	BHR	Bahrain	Bahrain
+050	BD	BGD	Bangladesh	Bangladesh
+052	BB	BRB	Barbados	Barbados
+112	BY	BLR	Belarus	Belarus
+056	BE	BEL	Belgium	Belgium
+084	BZ	BLZ	Belize	Belize
+204	BJ	BEN	Benin	Benin
+060	BM	BMU	Bermuda	Bermuda
+064	BT	BTN	Bhutan	Bhutan
+068	BO	BOL	Bolivia (Plurinational State of)	Bolivia
+070	BA	BIH	Bosnia and Herzegovina	Bosnia and Herzegovina
+072	BW	BWA	Botswana	Botswana
+076	BR	BRA	Brazil	Brazil
+092	VG	VGB	British Virgin Islands	Virgin Islands (British)
+096	BN	BRN	Brunei Darussalam	Brunei Darussalam
+100	BG	BGR	Bulgaria	Bulgaria
+854	BF	BFA	Burkina Faso	Burkina Faso
+108	BI	BDI	Burundi	Burundi
+116	KH	KHM	Cambodia	Cambodia
+120	CM	CMR	Cameroon	Cameroon
+124	CA	CAN	Canada	Canada
+132	CV	CPV	Cape Verde	Cape Verde
+136	KY	CYM	Cayman Islands	Cayman Islands
+140	CF	CAF	Central African Republic	Central African Republic
+148	TD	TCD	Chad	Chad
+830	NULL		Channel Islands	Channel Islands
+152	CL	CHL	Chile	Chile
+156	CN	CHN	China	China
+344	HK	HKG	Hong Kong Special Administrative Region of China	Hong Kong
+446	MO	MAC	Macao Special Administrative Region of China	Macao
+170	CO	COL	Colombia	Colombia
+174	KM	COM	Comoros	Comoros
+178	CG	COG	Congo	Congo
+184	CK	COK	Cook Islands	Cook Islands
+188	CR	CRI	Costa Rica	Costa Rica
+384	CI	CIV	Côte d'Ivoire	Côte d'Ivoire
+191	HR	HRV	Croatia	Croatia
+192	CU	CUB	Cuba	Cuba
+196	CY	CYP	Cyprus	Cyprus
+203	CZ	CZE	Czech Republic	Czech Republic
+408	KP	PRK	Democratic People's Republic of Korea	Korea (North)
+180	CD	COD	Democratic Republic of the Congo	Democratic Republic of the Congo
+208	DK	DNK	Denmark	Denmark
+262	DJ	DJI	Djibouti	Djibouti
+212	DM	DMA	Dominica	Dominica
+214	DO	DOM	Dominican Republic	Dominican Republic
+218	EC	ECU	Ecuador	Ecuador
+818	EG	EGY	Egypt	Egypt
+222	SV	SLV	El Salvador	El Salvador
+226	GQ	GNQ	Equatorial Guinea	Equatorial Guinea
+232	ER	ERI	Eritrea	Eritrea
+233	EE	EST	Estonia	Estonia
+231	ET	ETH	Ethiopia	Ethiopia
+234	FO	FRO	Faeroe Islands	Faeroe Islands
+238	FK	FLK	Falkland Islands (Malvinas)	Falkland Islands (Malvinas)
+242	FJ	FJI	Fiji	Fiji
+246	FI	FIN	Finland	Finland
+250	FR	FRA	France	France
+254	GF	GUF	French Guiana	French Guiana
+258	PF	PYF	French Polynesia	French Polynesia
+266	GA	GAB	Gabon	Gabon
+270	GM	GMB	Gambia	Gambia
+268	GE	GEO	Georgia	Georgia
+276	DE	DEU	Germany	Germany
+288	GH	GHA	Ghana	Ghana
+292	GI	GIB	Gibraltar	Gibraltar
+300	GR	GRC	Greece	Greece
+304	GL	GRL	Greenland	Greenland
+308	GD	GRD	Grenada	Grenada
+312	GP	GLP	Guadeloupe	Guadeloupe
+316	GU	GUM	Guam	Guam
+320	GT	GTM	Guatemala	Guatemala
+831	GG	GGY	Guernsey	Guernsey
+324	GN	GIN	Guinea	Guinea
+624	GW	GNB	Guinea-Bissau	Guinea-Bissau
+328	GY	GUY	Guyana	Guyana
+332	HT	HTI	Haiti	Haiti
+336	VA	VAT	Holy See	Vatican
+340	HN	HND	Honduras	Honduras
+348	HU	HUN	Hungary	Hungary
+352	IS	ISL	Iceland	Iceland
+356	IN	IND	India	India
+360	ID	IDN	Indonesia	Indonesia
+364	IR	IRN	Iran (Islamic Republic of)	Iran
+368	IQ	IRQ	Iraq	Iraq
+372	IE	IRL	Ireland	Ireland
+833	IM	IMN	Isle of Man	Isle of Man
+376	IL	ISR	Israel	Israel
+380	IT	ITA	Italy	Italy
+388	JM	JAM	Jamaica	Jamaica
+392	JP	JPN	Japan	Japan
+832	JE	JEY	Jersey	Jersey
+400	JO	JOR	Jordan	Jordan
+398	KZ	KAZ	Kazakhstan	Kazakhstan
+404	KE	KEN	Kenya	Kenya
+296	KI	KIR	Kiribati	Kiribati
+414	KW	KWT	Kuwait	Kuwait
+417	KG	KGZ	Kyrgyzstan	Kyrgyzstan
+418	LA	LAO	Lao People's Democratic Republic	Laos
+428	LV	LVA	Latvia	Latvia
+422	LB	LBN	Lebanon	Lebanon
+426	LS	LSO	Lesotho	Lesotho
+430	LR	LBR	Liberia	Liberia
+434	LY	LBY	Libyan Arab Jamahiriya	Libya
+438	LI	LIE	Liechtenstein	Liechtenstein
+440	LT	LTU	Lithuania	Lithuania
+442	LU	LUX	Luxembourg	Luxembourg
+450	MG	MDG	Madagascar	Madagascar
+454	MW	MWI	Malawi	Malawi
+458	MY	MYS	Malaysia	Malaysia
+462	MV	MDV	Maldives	Maldives
+466	ML	MLI	Mali	Mali
+470	MT	MLT	Malta	Malta
+584	MH	MHL	Marshall Islands	Marshall Islands
+474	MQ	MTQ	Martinique	Martinique
+478	MR	MRT	Mauritania	Mauritania
+480	MU	MUS	Mauritius	Mauritius
+175	YT	MYT	Mayotte	Mayotte
+484	MX	MEX	Mexico	Mexico
+583	FM	FSM	Micronesia (Federated States of)	Micronesia
+492	MC	MCO	Monaco	Monaco
+496	MN	MNG	Mongolia	Mongolia
+499	ME	MNE	Montenegro	Montenegro
+500	MS	MSR	Montserrat	Montserrat
+504	MA	MAR	Morocco	Morocco
+508	MZ	MOZ	Mozambique	Mozambique
+104	MM	MMR	Myanmar	Myanmar
+516	NA	NAM	Namibia	Namibia
+520	NR	NRU	Nauru	Nauru
+524	NP	NPL	Nepal	Nepal
+528	NL	NLD	Netherlands	Netherlands
+530	AN	ANT	Netherlands Antilles	Netherlands Antilles
+540	NC	NCL	New Caledonia	New Caledonia
+554	NZ	NZL	New Zealand	New Zealand
+558	NI	NIC	Nicaragua	Nicaragua
+562	NE	NER	Niger	Niger
+566	NG	NGA	Nigeria	Nigeria
+570	NU	NIU	Niue	Niue
+574	NF	NFK	Norfolk Island	Norfolk Island
+580	MP	MNP	Northern Mariana Islands	Northern Mariana Islands
+578	NO	NOR	Norway	Norway
+275	PS	PSE	Occupied Palestinian Territory	Palestine
+512	OM	OMN	Oman	Oman
+586	PK	PAK	Pakistan	Pakistan
+585	PW	PLW	Palau	Palau
+591	PA	PAN	Panama	Panama
+598	PG	PNG	Papua New Guinea	Papua New Guinea
+600	PY	PRY	Paraguay	Paraguay
+604	PE	PER	Peru	Peru
+608	PH	PHL	Philippines	Philippines
+612	PN	PCN	Pitcairn	Pitcairn
+616	PL	POL	Poland	Poland
+620	PT	PRT	Portugal	Portugal
+630	PR	PRI	Puerto Rico	Puerto Rico
+634	QA	QAT	Qatar	Qatar
+410	KR	KOR	Republic of Korea	Korea (South)
+498	MD	MDA	Republic of Moldova	Moldova
+638	RE	REU	Réunion	Réunion
+642	RO	ROU	Romania	Romania
+643	RU	RUS	Russian Federation	Russia
+646	RW	RWA	Rwanda	Rwanda
+652	BL	BLM	Saint-Barthélemy	Saint-Barthélemy
+654	SH	SHN	Saint Helena	Saint Helena
+659	KN	KNA	Saint Kitts and Nevis	Saint Kitts and Nevis
+662	LC	LCA	Saint Lucia	Saint Lucia
+663	MF	MAF	Saint-Martin (French part)	Saint-Martin (French part)
+666	PM	SPM	Saint Pierre and Miquelon	Saint Pierre and Miquelon
+670	VC	VCT	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines
+882	WS	WSM	Samoa	Samoa
+674	SM	SMR	San Marino	San Marino
+678	ST	STP	Sao Tome and Principe	Sao Tome and Principe
+682	SA	SAU	Saudi Arabia	Saudi Arabia
+686	SN	SEN	Senegal	Senegal
+688	RS	SRB	Serbia	Serbia
+690	SC	SYC	Seychelles	Seychelles
+694	SL	SLE	Sierra Leone	Sierra Leone
+702	SG	SGP	Singapore	Singapore
+703	SK	SVK	Slovakia	Slovakia
+705	SI	SVN	Slovenia	Slovenia
+090	SB	SLB	Solomon Islands	Solomon Islands
+706	SO	SOM	Somalia	Somalia
+710	ZA	ZAF	South Africa	South Africa
+724	ES	ESP	Spain	Spain
+144	LK	LKA	Sri Lanka	Sri Lanka
+736	SD	SDN	Sudan	Sudan
+740	SR	SUR	Suriname	Suriname
+744	SJ	SJM	Svalbard and Jan Mayen Islands	Svalbard and Jan Mayen Islands
+748	SZ	SWZ	Swaziland	Swaziland
+752	SE	SWE	Sweden	Sweden
+756	CH	CHE	Switzerland	Switzerland
+760	SY	SYR	Syrian Arab Republic	Syria
+762	TJ	TJK	Tajikistan	Tajikistan
+764	TH	THA	Thailand	Thailand
+807	MK	MKD	The former Yugoslav Republic of Macedonia	Macedonia
+626	TL	TLS	Timor-Leste	Timor-Leste
+768	TG	TGO	Togo	Togo
+772	TK	TKL	Tokelau	Tokelau
+776	TO	TON	Tonga	Tonga
+780	TT	TTO	Trinidad and Tobago	Trinidad and Tobago
+788	TN	TUN	Tunisia	Tunisia
+792	TR	TUR	Turkey	Turkey
+795	TM	TKM	Turkmenistan	Turkmenistan
+796	TC	TCA	Turks and Caicos Islands	Turks and Caicos Islands
+798	TV	TUV	Tuvalu	Tuvalu
+800	UG	UGA	Uganda	Uganda
+804	UA	UKR	Ukraine	Ukraine
+784	AE	ARE	United Arab Emirates	United Arab Emirates
+826	GB	GBR	United Kingdom of Great Britain and Northern Ireland	United Kingdom
+834	TZ	TZA	United Republic of Tanzania	Tanzania
+840	US	USA	United States of America	USA
+850	VI	VIR	United States Virgin Islands	Virgin Islands (USA)
+858	UY	URY	Uruguay	Uruguay
+860	UZ	UZB	Uzbekistan	Uzbekistan
+548	VU	VUT	Vanuatu	Vanuatu
+862	VE	VEN	Venezuela (Bolivarian Republic of)	Venezuela
+704	VN	VNM	Viet Nam	Viet Nam
+876	WF	WLF	Wallis and Futuna Islands	Wallis and Futuna Islands
+732	EH	ESH	Western Sahara	Western Sahara
+887	YE	YEM	Yemen	Yemen
+894	ZM	ZMB	Zambia	Zambia
+716	ZW	ZWE	Zimbabwe	Zimbabwe
