@@ -1,0 +1,9 @@
+Motivation:
+
+Publishing an updated version of the iso country code list usable for web projects.
+Thanks to Bill Rhodes for his original distribution at http://27.org/isocountrylist/, it has come in handy, but is not up to date any more.
+
+Sources:
+
+http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm for two-letter character codes
+http://unstats.un.org/unsd/methods/m49/m49alpha.htm for three-letter character codes and numeric identifiers.
